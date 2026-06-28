@@ -229,6 +229,12 @@ nav {
   font-size: 0.85rem;
 }
 
+.pub-note {
+  margin-top: 0.2rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
 .badge {
   display: inline-block;
   padding: 0.15rem 0.55rem;
